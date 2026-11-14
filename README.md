@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yoonyuljjang
 - 👀 I’m interested in utilizing AI to make my life simpler.
-- 🌱 I’m currently learning AI Prompting and Python.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning how to build end to end solutions to automate most of my full time job.
+- 💞️ I’m looking to collaborate on how to scale, how to offload more decision making to code/ai/model.
 - 📫 How to reach me yoonyuljjang@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
